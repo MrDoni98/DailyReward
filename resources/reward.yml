@@ -1,0 +1,29 @@
+---
+###номер дня
+1:
+  ##тип приза, пока поддерживаются только вещи
+  type: item
+  ##айди предмета
+  id: 260
+  ##урон предмета
+  meta: 0
+  ##количество
+  count: 1
+  ##кастомное имя предмета
+  custom_name: DailyReward
+  ##чары, не обязательный пункт
+  enchant:
+    ##айди чара
+    ench_id: 1
+    ##уровень чара
+    ench_level: 1
+2:
+  type: item
+  id: 267
+  meta: 0
+  count: 1
+  custom_name: DailyReward
+  enchant:
+    ench_id: 2
+    ench_level: 1
+...
